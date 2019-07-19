@@ -1,2 +1,6 @@
 # checkList
-To do check list made with React
+
+Simple To do check list made with React js.
+
+take a look:
+
